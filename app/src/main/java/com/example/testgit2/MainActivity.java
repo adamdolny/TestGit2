@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //pierwsza zmiana
         //druga zmiana
         //pierwsza zmiana w drugiej gałęzi
+        //druga zmiana w drugiej gałęzi
     }
 }
