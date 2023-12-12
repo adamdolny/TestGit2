@@ -15,6 +15,5 @@ public class MainActivity extends AppCompatActivity {
         //druga zmiana
         //pierwsza zmiana w drugiej gałęzi
         //druga zmiana w drugiej gałęzi
-        //zmiana po merge
     }
 }
